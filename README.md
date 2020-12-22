@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Lucas 👨‍💻
+  Hi there! I'm Lucas Rocha.
 </h1>
 
 <p align='center'>
-  A Java and Transact SQL developer from São Paulo, Brazil.
+  A Java developer from São Paulo, Brazil.
 </p>
 
 
@@ -55,9 +55,13 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Cloud Computing**\
+📆 2022 - 2024\
+📍 **University of Informatics and Administration of São Paulo (FIAP)**  - São Paulo, Brazil
+
+- 📖 **Computer Science**\
+📆 2017 - 2021\
+📍 **University Paulista UNIP** - São Paulo, Brazil
 
 ## Experience
 
