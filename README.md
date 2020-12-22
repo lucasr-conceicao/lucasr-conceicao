@@ -67,7 +67,7 @@
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 
-- 👨‍💻 **CIO and Mobile Developer**\
+- 👨‍💻 **IT Engineer**\
 📆 2021 - Moment\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
