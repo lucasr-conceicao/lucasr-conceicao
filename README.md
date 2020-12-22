@@ -45,9 +45,7 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
-</p>
+
 
 <details>
   <summary>📃 My Resume</summary>
@@ -65,27 +63,22 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img aling="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 
 - 👨‍💻 **CIO and Mobile Developer**\
-📆 2016 - Moment\
-📍 **Infinitus Solutions** - Curitiba, Brazil
+📆 2021 - Moment\
+📍 **Itaú Unibanco** - São Paulo, Brazil
 
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente, Brazil
+- 👨‍💻 **IT Intern**\
+📆 Fev 2020 - Dez 2020\
+📍 **Itaú Unibanco** - São Paulo, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
