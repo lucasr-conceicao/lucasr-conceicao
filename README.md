@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Java and T-SQL developer from São Paulo, Brazil.
+  A Java and Transact SQL developer from São Paulo, Brazil.
 </p>
 
 
