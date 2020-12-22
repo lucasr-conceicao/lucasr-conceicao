@@ -10,9 +10,9 @@
 
 <p align='center'>
   
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+  <a href="https://wa.me/5511963392828?text=Olá,%20Lucas!">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/public-profile/in/lucasrochaconceicao">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -81,13 +81,13 @@
 <img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 
-**Programming**
+- **Programming**
 
 
 </details>
 
 <details>
-  <summary>📦 My Packages</summary>
+  <summary>💻 My workspace</summary>
   
 
   
