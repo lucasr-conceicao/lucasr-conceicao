@@ -41,7 +41,7 @@
 
 - 📖 **Cloud Computing**\
 📆 2022 - 2024\
-📍 **University of Informatics and Administration of São Paulo (FIAP)**  - São Paulo, Brazil
+📍 **University of Informatics and Administration of São Paulo**  - São Paulo, Brazil
 
 - 📖 **Computer Science**\
 📆 2017 - 2021\
