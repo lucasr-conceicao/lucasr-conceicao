@@ -39,10 +39,6 @@
 
 ## Education
 
-- 📖 **Cloud Computing**\
-📆 2022 - 2024\
-📍 **University of Informatics and Administration of São Paulo**  - São Paulo, Brazil
-
 - 📖 **Computer Science**\
 📆 2017 - 2021\
 📍 **University Paulista UNIP** - São Paulo, Brazil
