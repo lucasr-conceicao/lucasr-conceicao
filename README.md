@@ -49,8 +49,8 @@
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 
-- 👨‍💻 **IT Engineer**\
-📆 2021 - Moment\
+- 👨‍💻 **Junior IT Engineer Analyst**\
+📆 2021 - Current\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -58,7 +58,7 @@
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 
-- 👨‍💻 **IT Intern**\
+- 👨‍💻 **IT Support Intern**\
 📆 Fev 2020 - Dez 2020\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
