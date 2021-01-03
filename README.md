@@ -53,6 +53,8 @@
 📆 2021 - Current\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
+<p>
+
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
@@ -63,13 +65,11 @@
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
 
-## Skills
+## Licenses & Certifications
+- 👨‍💻 **IT Support Intern**\
+📆 Fev 2020 - Dez 2020\
+📍 **Itaú Unibanco** - São Paulo, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 
 - **Programming**
 
