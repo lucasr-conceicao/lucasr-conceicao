@@ -53,7 +53,6 @@
 📆 2021 - Current\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
-<p>
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -71,20 +70,7 @@
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
 
-- **Programming**
 
-
-</details>
-
-<details>
-  <summary>💻 My workspace</summary>
-  
-  <p align='center'>
-    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  </p>
-  
 </details>
   
 
