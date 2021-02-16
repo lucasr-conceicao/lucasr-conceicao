@@ -59,7 +59,7 @@
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 
-- 👨‍💻 **Software Engineer**\
+- 👨‍💻 **Software Engineer Intern**\
 📆 Fev 2020 - Dez 2020\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
