@@ -49,9 +49,9 @@
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 
-- 👨‍💻 **Junior Software Engineer**\
+- 👨‍💻 **Analista Engenharia TI JR**\
 📆 2021 - Current\
-📍 **Itaú Unibanco** - São Paulo, Brazil
+📍 **Itaú Unibanco** - São Paulo, Brasil
 
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -59,7 +59,7 @@
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 
-- 👨‍💻 **Software Engineer Intern**\
+- 👨‍💻 **Estagiário Engenharia TI**\
 📆 Fev 2020 - Dez 2020\
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
