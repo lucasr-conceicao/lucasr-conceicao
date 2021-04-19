@@ -1,6 +1,6 @@
-## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
+## Olá, eu sou Lucas Rocha!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasr-conceicao&label=Views&color=red&style=plastic" alt="lucasr-conceicao" /> </p>
 
 <a href="https://twitter.com/imthepk">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
