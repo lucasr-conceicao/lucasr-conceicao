@@ -37,13 +37,13 @@
   <summary>📃 Resumo </summary>
 
 
-## Education
+## Formação acadêmica
 
 - 📖 **Computer Science**\
 📆 2017 - 2021\
 📍 **University Paulista UNIP** - São Paulo, Brazil
 
-## Experience
+## Experiência
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
