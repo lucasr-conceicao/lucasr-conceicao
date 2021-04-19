@@ -3,20 +3,11 @@
 <a href="https://www.linkedin.com/in/lucas-rocha-conceicao">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/lucasr-conceicao">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/codepur_ka_superhero/">
+<a href="https://www.instagram.com/eslurcha/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
