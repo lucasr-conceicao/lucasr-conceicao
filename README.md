@@ -18,12 +18,9 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<br/>
-<br/>
-
 <p align='center'>
   Atividade de codificação<br/><br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasr-conceicao&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasr-conceicao&show_icons=true&count_private=true&theme=light" width="350"></a>
 </p>
 
 
