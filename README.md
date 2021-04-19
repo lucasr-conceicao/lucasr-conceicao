@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there! I'm Lucas Rocha.
+  Oi, eu sou o Lucas Rocha.
 </h1>
 
 <p align='center'>
@@ -39,9 +39,9 @@
 
 ## Formação acadêmica
 
-- 📖 **Computer Science**\
+- 📖 **Ciência da computação**\
 📆 2017 - 2021\
-📍 **University Paulista UNIP** - São Paulo, Brazil
+📍 **Universidade Paulista UNIP** - São Paulo, Brazil
 
 ## Experiência
 
@@ -50,7 +50,7 @@
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 
 - 👨‍💻 **Analista Engenharia TI Junior**\
-📆 2021 - Current\
+📆 2021 - Momento\
 📍 **Itaú Unibanco** - São Paulo, Brasil
 
 
@@ -61,13 +61,13 @@
 
 - 👨‍💻 **Estagiário Engenharia TI**\
 📆 Fev 2020 - Dez 2020\
-📍 **Itaú Unibanco** - São Paulo, Brazil
+📍 **Itaú Unibanco** - São Paulo, Brasil
 
 
 ## Licenças e certificados
 - 👨‍💻 **IT Support Intern**\
 📆 Fev 2020 - Dez 2020\
-📍 **Itaú Unibanco** - São Paulo, Brazil
+📍 **Itaú Unibanco** - São Paulo, Brasil
 
 
 
