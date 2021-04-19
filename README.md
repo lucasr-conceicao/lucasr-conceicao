@@ -64,7 +64,7 @@
 📍 **Itaú Unibanco** - São Paulo, Brazil
 
 
-## Licenses & Certifications
+## Licenças e certificados
 - 👨‍💻 **IT Support Intern**\
 📆 Fev 2020 - Dez 2020\
 📍 **Itaú Unibanco** - São Paulo, Brazil
