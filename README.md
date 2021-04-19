@@ -6,41 +6,23 @@
   Desenvolvedor Backend - JAVA
 </p>
 
-<a href="https://www.linkedin.com/in/lucas-rocha-conceicao">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/lucasr-conceicao">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/eslurcha/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align='center'>
+  <a href="https://www.linkedin.com/public-profile/in/lucasrochaconceicao">
+    <img alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eslurcha/">
+    <img alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />        
+  </a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/eslurcha/">
+    <img alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />        
+  </a>&nbsp;&nbsp;
+</p>
 
 <br/>
 <br/>
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-<p align='center'>
- <!-- 
-  <a href="https://wa.me/55119########?text=Olá,%20Fulano!">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp; -->
-  <a href="https://www.linkedin.com/public-profile/in/lucasrochaconceicao">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/eslurcha/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
 
 <p align='center'>
   Atividade de codificação<br/><br/>
