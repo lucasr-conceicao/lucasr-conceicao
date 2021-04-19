@@ -54,7 +54,13 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 ## Licenças e certificados
 - 📖 **Java Xpert**\
 📆 2021\
-📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil
+📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
+• Java: Lógica de programação <br>
+• Java: Programação Orientada a Objetos <br>
+• Banco de dados: Programação <br>
+• Front programação <br>
+• Integração Web <br>
+• DevOps
 
 - 📖 **Microservices**\
 📆 2021\
