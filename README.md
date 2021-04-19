@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Java developer from São Paulo, Brazil.
+  Desenvolvedor Backend - JAVA
 </p>
 
 
