@@ -67,11 +67,11 @@
 ## Licenças e certificados
 - 📖 **Java Xpert**\
 📆 2021\
-📍 **FIAP** - São Paulo, Brazil
+📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil
 
 - 📖 **Microservices**\
 📆 2021\
-📍 **FIAP** - São Paulo, Brazil
+📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil
 
 
 
