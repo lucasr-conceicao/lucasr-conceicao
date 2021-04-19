@@ -36,13 +36,6 @@
 <details>
   <summary>📃 Resumo </summary>
 
-
-## Formação acadêmica
-
-- 📖 **Ciência da computação**\
-📆 2017 - 2021\
-📍 **Universidade Paulista UNIP** - São Paulo, Brazil
-
 ## Experiência
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -62,6 +55,13 @@
 - 👨‍💻 **Estagiário Engenharia TI**\
 📆 Fev 2020 - Dez 2020\
 📍 **Itaú Unibanco** - São Paulo, Brasil
+
+
+## Formação acadêmica
+
+- 📖 **Ciência da computação**\
+📆 2017 - 2021\
+📍 **Universidade Paulista UNIP** - São Paulo, Brasil
 
 
 ## Licenças e certificados
