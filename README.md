@@ -65,9 +65,13 @@
 
 
 ## Licenças e certificados
-- 📖 **Ciência da computação**\
-📆 2017 - 2021\
-📍 **Universidade Paulista UNIP** - São Paulo, Brazil
+- 📖 **Java Xpert**\
+📆 2021\
+📍 **FIAP** - São Paulo, Brazil
+
+- 📖 **Microservices**\
+📆 2021\
+📍 **FIAP** - São Paulo, Brazil
 
 
 
