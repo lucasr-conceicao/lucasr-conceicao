@@ -55,17 +55,19 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 - 📖 **Java Xpert**\
 📆 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
-• Java: Lógica de programação <br>
+• Java: Lógica de Programação <br>
 • Java: Programação Orientada a Objetos <br>
 • Banco de dados: Programação <br>
-• Front programação <br>
+• Front Programação <br>
 • Integração Web <br>
 • DevOps
 
 - 📖 **Microservices**\
 📆 2021\
-📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil
-
+📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
+• Microservices <br>
+• Desenvolvendo Microservices <br>
+• Microservices no dia a dia <br>
 
 
 </details>
