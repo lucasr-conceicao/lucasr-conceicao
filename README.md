@@ -1,4 +1,10 @@
-## Olá, eu sou Lucas Rocha!
+<h1 align='center'>
+  Oi, eu sou o Lucas Rocha.
+</h1>
+
+<p align='center'>
+  Desenvolvedor Backend - JAVA
+</p>
 
 <a href="https://www.linkedin.com/in/lucas-rocha-conceicao">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,15 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<h1 align='center'>
-  Oi, eu sou o Lucas Rocha.
-</h1>
-
-<p align='center'>
-  Desenvolvedor Backend - JAVA
-</p>
-
 
 
 <p align='center'>
