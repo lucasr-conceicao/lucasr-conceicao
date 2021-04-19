@@ -42,6 +42,10 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 
 ## Formação acadêmica
 
+- 📖 **Engenharia de Software**\
+📆 2022 - 2023\
+📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brasil
+
 - 📖 **Ciência da computação**\
 📆 2017 - 2021\
 📍 **Universidade Paulista UNIP** - São Paulo, Brasil
