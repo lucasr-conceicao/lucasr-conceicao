@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/eslurcha/">
     <img alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />        
   </a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/eslurcha/">
+   <a href="https://github.com/lucasr-conceicao">
     <img alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />        
   </a>&nbsp;&nbsp;
 </p>
