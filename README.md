@@ -34,7 +34,7 @@
 
 
 <details>
-  <summary>📃 My Resume</summary>
+  <summary>📃 Resumo </summary>
 
 
 ## Education
@@ -49,7 +49,7 @@
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 
-- 👨‍💻 **Analista Engenharia TI JR**\
+- 👨‍💻 **Analista Engenharia TI Junior**\
 📆 2021 - Current\
 📍 **Itaú Unibanco** - São Paulo, Brasil
 
