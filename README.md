@@ -29,12 +29,15 @@
 
 - 👨‍💻 **Analista Engenharia TI Junior**\
 📆 2021 - Momento\
-📍 **Itaú Unibanco** - São Paulo, Brasil
-
+📍 **Itaú Unibanco** - São Paulo, Brasil <br>
+Tecnologias: Java (Spring Boot), Kafka, AWS, MySQL, Clean Architecture, SOLID <br>
+• Responsável pela modernização de aplicações monoliticas para arquitetura de microsserviços. </p>
 
 - 👨‍💻 **Estagiário Engenharia TI**\
 📆 Fev 2020 - Dez 2020\
-📍 **Itaú Unibanco** - São Paulo, Brasil
+📍 **Itaú Unibanco** - São Paulo, Brasil <br>
+Tecnologias: Java (Spring Boot), SQL Server <br>
+• Responsável pela migração e o desenvolvimento de uma nova ferramenta de monitoração transacional, que apoia os times de Operações de TI, Suporte e Negócio.
 
 
 ## Formação acadêmica
