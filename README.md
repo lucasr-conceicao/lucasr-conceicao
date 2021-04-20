@@ -62,13 +62,19 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 • Integração Web <br>
 • DevOps
 
+- 📖 **Multicloud Architecture**\
+📆 2021\
+📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
+• Visão geral dos conceitos de Nuvem <br>
+• Infraestrutura como serviço (IAAS) <br>
+• Plataforma como serviço (PAAS)
+
 - 📖 **Microservices**\
 📆 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
 • Microservices <br>
 • Desenvolvendo Microservices <br>
-• Microservices no dia a dia <br>
-
+• Microservices no dia a dia
 
 </details>
   
