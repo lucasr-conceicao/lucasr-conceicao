@@ -42,14 +42,8 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 
 ## Formação acadêmica
 
-- 📖 **(Graduação) Ciência da computação**\
-📆 2017 - 2021\
-📍 **Universidade Paulista UNIP** - São Paulo, Brasil
-
-
-## Licenças e certificados
 - 📖 **Java Xpert**\
-📆 2021\
+📆 Mai 2021 - Set 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
 • Java: Lógica de Programação <br>
 • Java: Programação Orientada a Objetos <br>
@@ -58,8 +52,19 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 • Integração Web <br>
 • DevOps
 
+- 📖 **(Graduação) Ciência da computação**\
+📆 Fev 2017 - Mai 2021\
+📍 **Universidade Paulista UNIP** - São Paulo, Brasil
+
+
+## Licenças e certificados
+
+- 📖 **AWS Cloud Practitioner Essentials Day**\
+📆 Jun 2021\
+📍 **Amazon Web Services (AWS)** - São Paulo, Brazil <br>
+
 - 📖 **Microservices**\
-📆 2021\
+📆 Jun 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
 • Microservices <br>
 • Desenvolvendo Microservices <br>
