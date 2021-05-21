@@ -45,12 +45,7 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 - 📖 **Java Xpert**\
 📆 Mai 2021 - Set 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
-• Java: Lógica de Programação <br>
-• Java: Programação Orientada a Objetos <br>
-• Banco de dados: Programação <br>
-• Front Programação <br>
-• Integração Web <br>
-• DevOps
+
 
 - 📖 **(Graduação) Ciência da computação**\
 📆 Fev 2017 - Mai 2021\
@@ -63,12 +58,9 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 📆 Jun 2021\
 📍 **Amazon Web Services (AWS)** - São Paulo, Brazil <br>
 
-- 📖 **Microservices**\
+- 📖 **Microservices (Hands on): API Gateway, Webhooks & Elastic APM**\
 📆 Jun 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
-• Microservices <br>
-• Desenvolvendo Microservices <br>
-• Microservices no dia a dia
 
 </details>
   
