@@ -51,13 +51,13 @@ Tecnologias: Java (Spring Boot), SQL Server <br>
 📆 Fev 2017 - Mai 2021\
 📍 **Universidade Paulista UNIP** - São Paulo, Brasil
 
-
+<!--
 ## Licenças e certificados
-
+<!--
 - 📖 **AWS Cloud Practitioner Essentials Day**\
 📆 Jun 2021\
 📍 **Amazon Web Services (AWS)** - São Paulo, Brazil <br>
-
+<!--
 - 📖 **Microservices (Hands on): API Gateway, Webhooks & Elastic APM**\
 📆 Jun 2021\
 📍 **Faculdade de Informática e Administração Paulista (FIAP)** - São Paulo, Brazil <br>
